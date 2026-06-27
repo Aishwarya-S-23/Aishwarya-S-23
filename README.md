@@ -1,84 +1,105 @@
 <div align="center">
 
-<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<img src="./assets/hero.png" width="100%" alt="Aishwarya Profile Banner"/>
 
-<defs>
-<linearGradient id="grad" x1="0" y1="0" x2="900" y2="260">
-<stop stop-color="#0F172A"/>
-<stop offset="0.5" stop-color="#1E3A8A"/>
-<stop offset="1" stop-color="#06B6D4"/>
-</linearGradient>
+<br><br>
 
-<filter id="glow">
-<feGaussianBlur stdDeviation="8"/>
-</filter>
-</defs>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Solutions+with+Code"/>
+
+<br><br>
 
 
-<rect width="900" height="260" rx="30" fill="url(#grad)"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-06B6D4?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Specialization-AI%20%26%20ML-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Passion-Innovation-EC4899?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 
-<!-- Decorative AI circles -->
-
-<circle cx="780" cy="70" r="45" stroke="#67E8F9" stroke-width="2" opacity="0.5"/>
-<circle cx="820" cy="110" r="15" fill="#67E8F9"/>
-
-<circle cx="120" cy="210" r="50" stroke="#A78BFA" stroke-width="2" opacity="0.5"/>
+</div>
 
 
-<!-- Glow effect -->
-
-<circle cx="760" cy="80" r="55" fill="#22D3EE" opacity="0.2" filter="url(#glow)"/>
+<br>
 
 
-<!-- Main text -->
+## 🌌 About Me
 
-<text x="70" y="120"
-font-family="Montserrat, sans-serif"
-font-size="55"
-font-weight="700"
-fill="white">
+I am **Aishwarya**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
 
-HI, I'M AISH
-
-</text>
+I enjoy exploring intelligent systems, solving real-world problems through technology, and continuously improving my skills in software development and AI.
 
 
-<text x="75" y="165"
-font-family="Montserrat, sans-serif"
-font-size="22"
-fill="#CFFAFE">
+Currently exploring:
 
-AI & ML Explorer • Computer Science Engineer
-
-</text>
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Data Structures & Algorithms
+- 💻 Software Development
+- 🌱 Building impactful projects
 
 
-<text x="75" y="205"
-font-family="Montserrat, sans-serif"
-font-size="18"
-fill="#E0F2FE">
-
-Building intelligent solutions with creativity & code
-
-</text>
+<br>
 
 
-<!-- Small badge -->
-
-<rect x="75" y="225" width="180" height="25" rx="12"
-fill="#0EA5E9"/>
-
-<text x="95" y="243"
-font-family="Montserrat"
-font-size="13"
-fill="white">
-
-Future AI Engineer
-
-</text>
+## 🛠️ Tech Stack
 
 
-</svg>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,linux,tensorflow&theme=dark"/>
+
+</div>
+
+
+<br>
+
+
+## 🚀 Vision
+
+> "Creating technology that combines intelligence, creativity and impact."
+
+
+<br>
+
+
+## 📊 GitHub Analytics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-S-23&show_icons=true&theme=transparent&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-S-23&theme=transparent&hide_border=true"/>
+
+</div>
+
+
+<br>
+
+
+## 🌐 Connect With Me
+
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+✨ Thanks for visiting my profile ✨
 
 </div>
