@@ -1,15 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=230&section=header&text=Aishwarya%20S&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-<br>
+<defs>
+<linearGradient id="grad" x1="0" y1="0" x2="900" y2="260">
+<stop stop-color="#0F172A"/>
+<stop offset="0.5" stop-color="#1E3A8A"/>
+<stop offset="1" stop-color="#06B6D4"/>
+</linearGradient>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Artificial+Intelligence+%26+Machine+Learning;Building+Ideas+into+Intelligent+Solutions"/>
+<filter id="glow">
+<feGaussianBlur stdDeviation="8"/>
+</filter>
+</defs>
 
-<br><br>
 
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00C6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Field-Computer%20Science-243B55?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Passion-Innovation-8A2BE2?style=for-the-badge"/>
+<rect width="900" height="260" rx="30" fill="url(#grad)"/>
+
+
+<!-- Decorative AI circles -->
+
+<circle cx="780" cy="70" r="45" stroke="#67E8F9" stroke-width="2" opacity="0.5"/>
+<circle cx="820" cy="110" r="15" fill="#67E8F9"/>
+
+<circle cx="120" cy="210" r="50" stroke="#A78BFA" stroke-width="2" opacity="0.5"/>
+
+
+<!-- Glow effect -->
+
+<circle cx="760" cy="80" r="55" fill="#22D3EE" opacity="0.2" filter="url(#glow)"/>
+
+
+<!-- Main text -->
+
+<text x="70" y="120"
+font-family="Montserrat, sans-serif"
+font-size="55"
+font-weight="700"
+fill="white">
+
+HI, I'M AISH
+
+</text>
+
+
+<text x="75" y="165"
+font-family="Montserrat, sans-serif"
+font-size="22"
+fill="#CFFAFE">
+
+AI & ML Explorer • Computer Science Engineer
+
+</text>
+
+
+<text x="75" y="205"
+font-family="Montserrat, sans-serif"
+font-size="18"
+fill="#E0F2FE">
+
+Building intelligent solutions with creativity & code
+
+</text>
+
+
+<!-- Small badge -->
+
+<rect x="75" y="225" width="180" height="25" rx="12"
+fill="#0EA5E9"/>
+
+<text x="95" y="243"
+font-family="Montserrat"
+font-size="13"
+fill="white">
+
+Future AI Engineer
+
+</text>
+
+
+</svg>
 
 </div>
