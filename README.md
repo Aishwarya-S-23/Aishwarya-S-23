@@ -1,67 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aishwarya%20S&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
-
-<div align="center">
-
-### ✨ Computer Science Engineer | AI & ML Explorer | Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=650&lines=Building+with+Logic+%26+Creativity;Exploring+Artificial+Intelligence;Turning+Ideas+into+Impactful+Projects"/>
-
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=230&section=header&text=Aishwarya%20S&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Artificial+Intelligence+%26+Machine+Learning;Building+Ideas+into+Intelligent+Solutions"/>
 
-## 🌷 About Me
+<br><br>
 
-Hello! I'm **Aishwarya**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
-
-I enjoy transforming ideas into practical solutions through technology, continuously learning modern tools, and improving my problem-solving skills.
-
-Currently exploring:
-
-🌱 Machine Learning & AI  
-💻 Software Development  
-🧩 Data Structures & Algorithms  
-✨ Building meaningful projects  
-
-
-<br>
-
-
-
-# 👋 Hey, I'm Aishwarya
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+(AI+%26+ML)+Student;Machine+Learning+Enthusiast;Java+%7C+Python+Developer;Building+Intelligent+Solutions"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Field-Computer%20Science-243B55?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Passion-Innovation-8A2BE2?style=for-the-badge"/>
 
 </div>
-
-
-## 🧠 About Me
-
-🎓 Computer Science Engineering (AI & ML) Student  
-🚀 Exploring Artificial Intelligence, Machine Learning & Software Development  
-💻 Passionate about problem solving and building impactful projects  
-
-Currently learning:
-- Data Structures & Algorithms
-- Machine Learning
-- Backend Development
-
-
----
-
-## ⚡ Tech Universe
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,git,github,linux,tensorflow"/>
-
-</p>
