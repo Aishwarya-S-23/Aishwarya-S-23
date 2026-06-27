@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Aishwarya
 
-<!--
-**Aishwarya-S-23/Aishwarya-S-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+(AI+%26+ML)+Student;Machine+Learning+Enthusiast;Java+%7C+Python+Developer;Building+Intelligent+Solutions"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+## 🧠 About Me
+
+🎓 Computer Science Engineering (AI & ML) Student  
+🚀 Exploring Artificial Intelligence, Machine Learning & Software Development  
+💻 Passionate about problem solving and building impactful projects  
+
+Currently learning:
+- Data Structures & Algorithms
+- Machine Learning
+- Backend Development
+
+
+---
+
+## ⚡ Tech Universe
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,git,github,linux,tensorflow"/>
+
+</p>
